@@ -1,0 +1,32 @@
+
+#top{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding: 50px;
+    position: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#outerDiv{
+
+    width: 500px;
+    margin: auto;
+    position: flex;
+    align-items: center;
+    
+}
+
+input {
+   width: 200px;  
+}
+
+button{
+    width: 200px;  
+}
+
+#child-2{
+    margin-left: 70px;
+}
+
+
